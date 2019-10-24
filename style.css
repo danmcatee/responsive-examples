@@ -1,0 +1,45 @@
+.container {
+  max-width: 1000px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.heading {
+  text-align: center;
+}
+
+.banner {
+  width: 100%;
+}
+
+.first {
+  display: flex;
+  margin-bottom: 5em;
+}
+
+.second {
+  display: flex;
+}
+
+.col {
+  padding: 2em 1.5em;
+}
+
+.black {
+  background: #333;
+  color: whitesmoke;
+}
+
+.col-1,
+.col-3,
+.col-5 {
+  width: 25%;
+}
+
+.col-2 {
+  width: 50%;
+}
+
+.col-4 {
+  width: 75%;
+}
