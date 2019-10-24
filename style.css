@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  background: hotpink;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  width: 50%;
+}
+
+/* 1. make the background red when width 400px and bigger */
+
+/* 2. make the background purple when width 650px and bigger */
